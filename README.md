@@ -1,2 +1,2 @@
 # okna
-by tutorial
+tutorial by Ivan Petrichenko
