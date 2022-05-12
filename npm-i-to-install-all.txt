@@ -1,0 +1,5 @@
+to install all from package.json,
+goto folder where package.json is,
+in Terminal:
+
+npm i
