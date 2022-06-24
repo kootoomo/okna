@@ -1,2 +1,3 @@
 # okna
-tutorial by Ivan Petrichenko
+by tutorial by Ivan Petrichenko
+https://webdesign.alab.pw/okna/
